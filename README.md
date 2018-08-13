@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/picstyle.css">
+</head>
+<body>
+	<meta name="viewport" content="width=device-width, initial-scale=1"
+<link rel="stylesheet" href="css/picstyle.css">  
+<div class="container">  
+<div class="container">
 
-You can use the [editor on GitHub](https://github.com/Boopathi3198/bittreesplants.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<header>
+<img src="img/bhead.png" width="1100" height="130" align="center">
+<h1>TREES & PLANTS </h1>  
+</header>
+<nav>
+ <div ><p style="font-size:30px;"><a href="piclink.html#">TREES LIST</a></p></div>
+</div>
+</nav>
+<article>
+  <h1>Enviroment</h1>
+  <p>
+Nestled on the banks of the river Bhavani, 
+BIT's campus provides the right environment for natural learning in harmony with nature, away from the odds of city life.
+ The spacious and the earth hugging buildings punctuated with landscaped courtyards and pathways are designed to emphasize
+ the business ethics and character of an excellent center for learning. The campus hosts well planned academic blocks, 
+ computer centers, lecture halls libraries, laboratories, conference halls, staff quarters, hostel and students' centres.
+ The campus also comprises a co-operative store, a bank with ATM and a clinic to attend to the general health of the students and staff.
+ Adequate transport facilities are provided in the campus. BIT has the feel of a friendly hamlet while offering
+ all the benefits of a citadel of learning.
+</p>
+</div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<footer>Copyright &copy;Mini Project IT</footer>
 
-### Markdown
+</body>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Boopathi3198/bittreesplants.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
